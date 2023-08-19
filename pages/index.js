@@ -38,7 +38,7 @@ const Index = () => {
               </div>
               <div className="col-lg-6">
                 <div className="hb-img">
-                  <img src="static/img/selfieKaz.jpeg" title="" alt="" />
+                  <img src="static/img/SelfieKaz.jpeg" title="" alt="" />
                 </div>
               </div>
             </div>
