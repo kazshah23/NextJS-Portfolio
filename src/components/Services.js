@@ -39,7 +39,7 @@ const Services = () => {
                 <h5>Web Development</h5>
                 <p>
                 Self-learning web development has been an incredibly gratifying journey for me, one that I deeply cherish. 
-                I take immense pride in acquiring this skill set independently and becoming so fluent in. While I'm passionate about crafting the 
+                I take immense pride in acquiring this skill set independently and becoming so fluent in. While Im passionate about crafting the 
                 robust and efficient server-side systems, I also have a keen interest in front-end development. My dream is to work 
                 on projects that demand a full-stack approach, where I can seamlessly integrate both frontend and backend technologies
                 to create holistic and user-centric web solutions. </p>
@@ -53,7 +53,7 @@ const Services = () => {
                 <h5>Agile Development </h5>
                 <p>
                 Incorporating Agile Development methodologies into my work experience as a manager and team member,
-                 I've observed every step of this dynamic and collaborative process. This approach has enabled me to contribute 
+                 Ive observed every step of this dynamic and collaborative process. This approach has enabled me to contribute 
                  to the continuous delivery of high-value solutions through iterative development cycles.
                 </p>
               </div>
@@ -82,11 +82,9 @@ const Services = () => {
                 <p>
                   I will always leave code cleaner than how I got it. This is one of the most important trait that every programmer should have
                   and is a skill I take great pride in. The value of writing clean, organized code extends far beyond individual 
-                  preference; it's an essential practice that significantly enhances the development process. Not only does it 
+                  preference; its an essential practice that significantly enhances the development process. Not only does it 
                   facilitate easier maintenance and updates for future developers, but it also fosters a collaborative environment
                    where fellow team members can seamlessly contribute their insights and expertise. 
-
-                   I utilize the skills from the book "Clean Code" by Robert Martin.
                 </p>
               </div>
             </div>
