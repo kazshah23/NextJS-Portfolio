@@ -20,6 +20,16 @@
       "static/chunks/main.js",
       "static/chunks/pages/index.js"
     ],
+    "/BlogFour": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/BlogFour.js"
+    ],
+    "/BlogThree": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/BlogThree.js"
+    ],
     "/_app": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",

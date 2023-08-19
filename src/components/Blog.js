@@ -36,7 +36,7 @@ const Blog = () => {
           <div className="col-md-6 m-15px-tb">
             <div className="blog-grid">
               <div className="blog-img">
-                <Link href="/single-blog">
+                <Link href="/BlogThree">
                   <a>
                     <img src="static/img/maze.jpeg" title="" alt="" />
                   </a>
@@ -57,14 +57,14 @@ const Blog = () => {
           <div className="col-md-6 m-15px-tb">
             <div className="blog-grid">
               <div className="blog-img">
-                <Link href="/single-blog">
+                <Link href="/BlogTwo">
                   <a>
                     <img src="static/img/topsters2.png" title="" alt="" />
                   </a>
                 </Link>
               </div>
               <div className="blog-info">
-                <div className="meta">April 2022</div>
+                <div className="meta">May 2023</div>
                 <h6>
                   <Link href="/single-blog">
                     <a>
@@ -78,7 +78,7 @@ const Blog = () => {
           <div className="col-md-6 m-15px-tb">
             <div className="blog-grid">
               <div className="blog-img">
-                <Link href="/single-blog">
+                <Link href="/BlogFour">
                   <a>
                     <img src="static/img/linkedlist.png" title="" alt="" />
                   </a>

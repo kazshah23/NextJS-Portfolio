@@ -17,7 +17,7 @@ const SingleBlog = () => {
                   <h2>Open Flights Data Analysis</h2>
                   <div className="media">
                     <div className="avatar">
-                      <img src="static/img/Plane.jpg" title="" alt="" />
+                      <img src="static/img/linkedinkaz.jpeg" title="" alt="" />
                     </div>
                     <div className="media-body">
                       <label>Kazmain Shah</label>
@@ -27,10 +27,10 @@ const SingleBlog = () => {
                 </div>
                 <div className="article-content">
                   <p>
-                    <a href = "https://github.com/RitulSoni/Open-Flights-Data-Project">Github Repo</a>
+                    <a href = "https://github.com/RitulSoni/Open-Flights-Data-Project"> <i className="fab fa-github" /> Github Repo</a>
                   </p>
                   <p>
-                  Our project uses the OpenFlights data set, where we get access to thousands of airports, routes, and data.
+                  My project uses the OpenFlights data set, where we get access to thousands of airports, routes, and data.
                    We took this data and cleaned it to give us the pertinent data subset need to created a Graph of connected airports
                     and routes. We used an adjacency list representation of a weighted graph to be able to run in optimal runtimes which 
                     will be discussed below. Users are able to run various simple command line commands to run the various algorthims we 
