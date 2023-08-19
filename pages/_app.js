@@ -3,6 +3,8 @@ import { Fragment, useEffect, useState } from "react";
 import PreLoader from "../src/layout/PreLoader";
 import "../styles/glitch.css";
 import "../styles/globals.css";
+
+import { inject } from '@vercel/analytics';
 function MyApp({ Component, pageProps }) {
   const [load, setLoad] = useState(true);
   useEffect(() => {
@@ -10,7 +12,7 @@ function MyApp({ Component, pageProps }) {
       setLoad(false);
     }, 1000);
   }, []);
-
+  inject();
   return (
     <Fragment>
       <Head>
