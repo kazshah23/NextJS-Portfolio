@@ -38,7 +38,7 @@ const Blog = () => {
               <div className="blog-img">
                 <Link href="/single-blog">
                   <a>
-                    <img src="static/img/Maze.jpeg" title="" alt="" />
+                    <img src="static/img/maze.jpeg" title="" alt="" />
                   </a>
                 </Link>
               </div>
