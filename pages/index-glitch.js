@@ -31,7 +31,6 @@ const IndexGlitch = () => {
                   <div className="img">
                     <img src="static/img/home-banner.png" title="" alt="" />
                   </div>
-                  <h1 className="font-alt">Sergio Gadot</h1>
                   <p className="lead">
                     I Am <TypingAnimation />
                   </p>

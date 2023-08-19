@@ -33,7 +33,6 @@ const IndexVideo = () => {
               <div className="col-lg-6">
                 <div className="type-box">
                   <h6>Hello, I am</h6>
-                  <h1 className="font-alt">Sergio Gadot</h1>
                   <p className="lead">
                     I Am Passionate <span id="type-it" />
                   </p>

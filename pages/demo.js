@@ -15,7 +15,6 @@ const Demo = () => {
               <div className="col-md-12 col-lg-9 text-center">
                 <div className="text-center">
                   <h1 className="mb-4 font-weight-bold text-white">
-                    Sergio – Portfolio/CV/Resume React NextJS Template.
                   </h1>
                   <div className="btn-bar p-15px-t">
                     <a href="#" className="px-btn px-btn-theme">
@@ -140,10 +139,6 @@ const Demo = () => {
               <div className="col-lg-10">
                 <span>You are at the right step now</span>
                 <div className="clearfix" />
-                <h3 className="text-white p-30px-b">
-                  Purchase The <span className="theme-color">sergio</span> and
-                  Make Your Own Bootstrap Based Landing Page Templates.
-                </h3>
                 <div className="clearfix" />
                 <a href="#" className="px-btn px-btn-theme">
                   <span>Buy Now</span>
