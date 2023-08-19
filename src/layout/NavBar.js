@@ -75,7 +75,7 @@ const MenuWithOutBlog = () => {
       <li data-menuanchor="services">
         <a className="nav-link" href="#services">
           <i className="ti-panel" />
-          <span>Services</span>
+          <span>Frameworks</span>
         </a>
       </li>
       {/* <li data-menuanchor="work">
@@ -87,7 +87,7 @@ const MenuWithOutBlog = () => {
       <li data-menuanchor="blog" className="blog">
         <a className="nav-link" href="#blog">
           <i className="ti-layout-media-overlay-alt-2" />
-          <span>Blogs</span>
+          <span>Projects</span>
         </a>
       </li>
       <li data-menuanchor="contactus">

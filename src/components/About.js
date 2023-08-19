@@ -63,7 +63,7 @@ const About = () => {
         </div>
         <div className="separated" />
         <div className="title">
-          <h3>Languages &amp; Frameworks.</h3>
+          <h3>Frameworks.</h3>
         </div>
         <div className="row">
           <div className="col-lg-4 m-15px-tb">
@@ -91,7 +91,6 @@ const About = () => {
           </div>
           <div className="col-lg-7 ml-auto m-15px-tb">
             <div className="skills-box">
-              <h3>My Languages</h3>
               <p>
               </p>
               {/* /skill */}
