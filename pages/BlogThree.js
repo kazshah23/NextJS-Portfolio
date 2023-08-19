@@ -30,7 +30,7 @@ const BlogThree = () => {
                     <a href = "https://github.com/kazshah23/Labryinth-Solver"> <i className="fab fa-github" /> Github Repo</a>
                   </p>
                   <p>
-                  My Program uses a randomized version of Prim's algorithm to efficiently create mazes. To manage maze-related data,
+                  My Program uses a randomized version of Prims algorithm to efficiently create mazes. To manage maze-related data,
                    the code employs various data structures, including vectors, queues, and maps. Notably, it utilizes a disjoint set
                     data structure (implemented as dsets) to track connected components and ensure maze connectivity without introducing 
                     cycles during generation. To solve the maze, the code utilizes Breadth-First Search (BFS) traversal, making use of 

@@ -41,7 +41,7 @@ const BlogTwo = () => {
                    in the KDTree structure.
                   </p>
                   <p>
-                  <h6>Tile Placement:</h6> The project's central function involves pasting tiles onto the resized image, systematically covering
+                  <h6>Tile Placement:</h6> The projects central function involves pasting tiles onto the resized image, systematically covering
                    its regions. Tiles are selected based on their color proximity to the target region. The placement process is managed
                     through loops, iterating over rows and columns to ensure accurate positioning.
                   </p>
@@ -52,7 +52,7 @@ const BlogTwo = () => {
                   </p>
                   <p>
                   <h4>Middleware Work</h4>
-                  <h6>make_mosaic Route:</h6> The core functionality of the application is encapsulated in the make_mosaic route. Here's what it does:
+                  <h6>make_mosaic Route:</h6> The core functionality of the application is encapsulated in the make_mosaic route. Heres what it does:
                   Image Handling: It receives image data through a POST request, which is typically uploaded by the user. The code extracts the file type from the uploaded image (e.g., JPEG, PNG).
                   File Management: It generates a unique file name for the uploaded image and saves it locally. This saved image serves as the base for creating the mosaic.
                   Microservice Integration: The route defines a list of URLs, each pointing to a different microservice. These microservices are presumably responsible for generating specific parts of the mosaic.

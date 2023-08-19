@@ -32,7 +32,7 @@ const BlogFour = () => {
                   <p>
                   This program represents a robust implementation of a doubly linked list data structure with a range of versatile 
                   features. Upon initialization, an empty doubly linked list is created, and it keeps track of both the head and tail 
-                  pointers while maintaining a count of the list's length. This foundational structure allows for efficient and dynamic
+                  pointers while maintaining a count of the lists length. This foundational structure allows for efficient and dynamic
                    data management.
                   </p>
                   <p>

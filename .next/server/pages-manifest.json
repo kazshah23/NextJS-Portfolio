@@ -1,8 +1,17 @@
 {
+  "/BlogFour": "pages/BlogFour.html",
+  "/BlogThree": "pages/BlogThree.html",
+  "/BlogTwo": "pages/BlogTwo.html",
   "/_app": "pages/_app.js",
+  "/api/hello": "pages/api/hello.js",
+  "/demo": "pages/demo.html",
+  "/index-glitch": "pages/index-glitch.html",
+  "/blog": "pages/blog.html",
+  "/index-particles": "pages/index-particles.html",
+  "/index-video": "pages/index-video.html",
+  "/": "pages/index.html",
   "/_error": "pages/_error.js",
+  "/single-blog": "pages/single-blog.html",
   "/_document": "pages/_document.js",
-  "/": "pages/index.js",
-  "/BlogThree": "pages/BlogThree.js",
-  "/BlogFour": "pages/BlogFour.js"
+  "/404": "pages/404.html"
 }
