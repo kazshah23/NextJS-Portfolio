@@ -29,7 +29,7 @@ const Index = () => {
                   <p className="desc">
                   </p>
                   <div className="btn-bar">
-                  <a class="px-btn px-btn-theme" href="static/img/Kazmain_Shah_Resume.pdf" download="Kazmain_Shah_Resume.pdf">
+                  <a class="px-btn px-btn-theme" href="static/img/Kazmain_Resume_2025.pdf" download="Kazmain_Resume_2025.pdf">
                     Download my Resume
                   </a>
 
@@ -38,7 +38,7 @@ const Index = () => {
               </div>
               <div className="col-lg-6">
                 <div className="hb-img">
-                  <img src="static/img/SelfieKaz.jpeg" title="" alt="" />
+                  <img src="static/img/LinkedinKaz2.jpg" title="" alt="" />
                 </div>
               </div>
             </div>

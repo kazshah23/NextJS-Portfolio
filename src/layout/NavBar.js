@@ -36,7 +36,7 @@ const Header = ({ blog }) => {
           <div className="hl-top">
             <div className="hl-logo">
               <div className="img">
-                <img src="static/img/linkedinkaz.jpeg" title="" alt="" />
+                <img src="static/img/linkedinKaz2.jpg" title="" alt="" />
               </div>
               <h5>Kazmain Shah</h5>
             </div>
